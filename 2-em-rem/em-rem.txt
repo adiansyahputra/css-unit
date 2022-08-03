@@ -1,0 +1,6 @@
+default -> 16px  
+
+em -> lihat ke parent
+em -> gunakan untuk margin padding
+
+rem -> gunakan untuk font
