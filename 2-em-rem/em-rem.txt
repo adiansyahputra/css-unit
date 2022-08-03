@@ -2,5 +2,7 @@ default -> 16px
 
 em -> lihat ke parent
 em -> gunakan untuk margin padding
+em -> relatif terhadap ukuran font yang sedang digunakan 
+rem -> relatif terhadap ukuran font "root" / <html>
 
 rem -> gunakan untuk font
