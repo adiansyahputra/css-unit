@@ -1,0 +1,18 @@
+calc()
+fungsi pada css, yang memungkinkan kita untuk melakukan operasi matematika/ kalkuliasi pada nilai dari sebuah properti 
+
+nilai yang bisa dikelola diantaranya:
+-length 
+-angle 
+-time 
+-percentage 
+-number 
+
+penjumlahan 
+width: calc(10px + 100px);
+pengurangan
+width: calc(100% - 30px);
+perkalian 
+margin: calc(10px * 3);
+
+height: calc(100vh - var(--header-height));
